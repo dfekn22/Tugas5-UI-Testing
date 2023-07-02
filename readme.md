@@ -1,6 +1,5 @@
 How to Use:
 - npx cypress open
-or
 - npx cypress run
 
 Result:
