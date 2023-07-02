@@ -1,0 +1,15 @@
+{
+  "name": "tugas-uitesting",
+  "version": "1.0.0",
+  "description": "untuk tugas ui testing sanber",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "daffa eka",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
